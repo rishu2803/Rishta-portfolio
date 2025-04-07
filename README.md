@@ -11,5 +11,5 @@ Passionate Full Stack Developer with 4 years of experience in PHP, Laravel, JS, 
 - Employee Performance Tracker – PHP + Oracle
 
 ## 📫 Contact
-- Email: your.email@example.com
+- Email: tiwaririshta2@gmail.com
 - LinkedIn: [Rishta Tiwari](https://www.linkedin.com/in/rishta-tiwari-785496227)
